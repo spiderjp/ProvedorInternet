@@ -1,0 +1,16 @@
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.csproj.AssemblyReference.cache
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.Form1.resources
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.csproj.GenerateResource.cache
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.AssemblyInfo.cs
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.exe
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.deps.json
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.runtimeconfig.json
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.runtimeconfig.dev.json
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.dll
+C:\Users\cleit\Desktop\ProvedorInternet\bin\Debug\netcoreapp3.1\ProvedorInternet.pdb
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.dll
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.pdb
+C:\Users\cleit\Desktop\ProvedorInternet\obj\Debug\netcoreapp3.1\ProvedorInternet.genruntimeconfig.cache
